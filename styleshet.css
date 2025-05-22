@@ -1,0 +1,35 @@
+body {
+    background-color: #1a1a1a;
+}
+
+p,h1,h2,h3,h4,h5, li {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.profile {
+    background-color: #202020;
+    margin-top: 15px;
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#about-image {
+    width: 160px;
+}
+
+.profile-pic {
+    padding-left: 10px;
+}
+
+#about-heading {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+
+.about {
+    padding-left: 10px;
+    flex-direction: column;
+}
